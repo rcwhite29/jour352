@@ -24,17 +24,26 @@ div.catchphrase {
     font-family: 'Libre Baskerville', serif;
     font-style: italic;
     border-bottom-style: solid;
-    border-bottom-color: #455f7a;
+    border-bottom-color: grey;
 }
 
 span#cat {
-    color: #455f7a;
+    color: grey;
 }
 
 div.socialmedia {
     text-align: center;
 	display: table;
 	margin: 0 auto;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 15px;
+    word-spacing: 25px;
+}
+
+span#li1, #li2, #li3, #li4 {
+    border-right-style: solid;
+    border-right-width: thin;
+    padding-right: 30px;
 }
 
 ul#horizontal-list {
