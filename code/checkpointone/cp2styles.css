@@ -54,28 +54,14 @@ p#thinking {
     font-size: 17px;
 }
 
-h2#titleex {
+h2#titleex, #titleed, #titlesk {
     height: 40px;
     font-size: 30px;
     background-color: #33485e;
     color: white;
 }
 
-h2#titleed {
-    height: 40px;
-    font-size: 30px;
-    background-color: #33485e;
-    color: white;
-}
-
-h2#titlesk {
-        height: 40px;
-        font-size: 30px;
-        background-color: #33485e;
-        color: white;
-    }
-
-ul#edlist {
+ul#edlist, #skilllist {
     font-size: 17px;
 }
 
@@ -83,11 +69,19 @@ span#unc {
     font-style: italic;
 }
 
-ul#skilllist {
-    font-size: 17px;
-}
-
 span#reporter {
     background-color: #33485e;
     color: white;
+}
+
+h3#job1, #job2, #job3 {
+
+}
+
+h4#comapny1, #company2, #company3 {
+
+}
+
+h5#date1, #date2, #date3 {
+    
 }
