@@ -3,11 +3,86 @@ h1 {
 }
 
 img {
-    max-width: 600px;
+    max-width: 500px;
     width: 100%;
 }
 
 div {
-    width: 500px;
+    width: 750px;
     margin: auto;
+}
+
+div.masthead {
+    text-align: center;
+}
+
+div.catchphrase {
+    text-align: center;
+}
+
+div.socialmedia {
+    text-align: center;
+	display: table;
+	margin: 0 auto;
+}
+
+ul#horizontal-list {
+	min-width: 696px;
+	list-style: none;
+	padding-top: 20px;
+	}
+	ul#horizontal-list li {
+		display: inline;
+	}
+
+img#portrait {
+    width: 275px;
+    height: 175px;
+    float: right;
+    margin: 5px;
+}
+
+p#wapo {
+    height: 100px;
+    line-height: 25px;
+    font-size: 17px;
+}
+
+p#thinking {
+    height: 100px;
+    line-height: 25px;
+    font-size: 17px;
+}
+
+h2#titleex {
+    height: 40px;
+    font-size: 30px;
+    background-color: lightblue;
+    color: white;
+}
+
+h2#titleed {
+    height: 40px;
+    font-size: 30px;
+    background-color: lightblue;
+    color: white;
+}
+
+h2#titlesk {
+        height: 40px;
+        font-size: 30px;
+        background-color: lightblue;
+        color: white;
+    }
+
+ul#edlist {
+    font-size: 17px;
+}
+
+span#unc {
+    font-style: italic;
+}
+
+ul#skilllist {
+    font-size: 17px;
 }
