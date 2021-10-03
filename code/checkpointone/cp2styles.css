@@ -97,3 +97,7 @@ p#description1, #description2, #description3 {
     font-size: 15px;
     font-family: 'Libre Baskerville', serif;
 }
+
+div.wapo, .npr, .newyorktimes {
+    line-height: 7px;
+}
