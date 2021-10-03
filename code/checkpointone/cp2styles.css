@@ -43,15 +43,17 @@ img#portrait {
 }
 
 p#wapo {
-    height: 100px;
+    height: 150px;
     line-height: 25px;
     font-size: 17px;
+    font-family: 'Libre Baskerville', serif;
 }
 
 p#thinking {
     height: 100px;
     line-height: 25px;
     font-size: 17px;
+    font-family: 'Libre Baskerville', serif;
 }
 
 h2#titleex, #titleed, #titlesk {
@@ -63,6 +65,7 @@ h2#titleex, #titleed, #titlesk {
 
 ul#edlist, #skilllist {
     font-size: 17px;
+    font-family: 'Libre Baskerville', serif;
 }
 
 span#unc {
@@ -76,17 +79,21 @@ span#reporter {
 
 h3#job1, #job2, #job3 {
     font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
 }
 
 h4#company1, #company2, #company3 {
     font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
 }
 
 h5#date1, #date2, #date3 {
     font-size: 17px;
     font-style: italic;
+    font-family: 'Open Sans', sans-serif;
 }
 
 p#description1, #description2, #description3 {
     font-size: 15px;
+    font-family: 'Libre Baskerville', serif;
 }
