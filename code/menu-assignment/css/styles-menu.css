@@ -2,6 +2,8 @@
 div {
     width: 750px;
     margin: auto;
+    font-family: 'Raleway', sans-serif;
+    line-height: 20px;
 }
 
 div.masthead {
@@ -12,6 +14,16 @@ div.masthead {
 
 img#logo {
     width: 450px;
+}
+
+img#eventspace {
+    width: 375px;
+    float: right;
+}
+
+div.footnotes {
+    width: 375px;
+    text-align:
 }
 
 h3.heads {
@@ -30,30 +42,39 @@ h5.food {
 
 div.box {
     border-style: dotted;
-    background-color: #728d9c;
+    background-color: #e4ebed;
+    border-color: grey;
     height: 150px;
+    padding: 5px;
 }
 
 p#kitchen {
     color: #grey;
+    word-spacing: 7px;
 }
 
 h2#eventhouse {
-    color: #728d9c;
+    color: #bdc5c7;
 }
 
 div.event {
     border-bottom-style: dotted;
     border-top-style: dotted;
+    border-color: grey;
     width: 450px;
 }
 
 p#history {
-    color: #728d9c;
+    color: #bdc5c7;
 }
 
 h6#pizzatoppings {
-    color: red;
+    color: #b0281e;
     font-size: 20px;
     text-transform: uppercase;
+}
+
+p#extra {
+    font-size: 10px
+    color: grey;
 }
