@@ -1,8 +1,59 @@
 /* font-family: "Raleway", sans-serif; */
-body.body {
-
+div {
+    width: 750px;
+    margin: auto;
 }
 
 div.masthead {
     text-align: center;
+    width: 500px;
+    margin: auto;
+}
+
+img#logo {
+    width: 450px;
+}
+
+h3.heads {
+    color: #b0281e;
+    border-bottom-style: dotted;
+    border-bottom-color: grey;
+    width: 300px;
+    font-size: 20px;
+    text-transform: uppercase
+}
+
+h5.food {
+    style: bold;
+    font-size: 17px;
+}
+
+div.box {
+    border-style: dotted;
+    background-color: #728d9c;
+    height: 150px;
+}
+
+p#kitchen {
+    color: #grey;
+}
+
+h2#eventhouse {
+    color: #728d9c;
+}
+
+div.event {
+    border-bottom-style: dotted;
+    border-top-style: dotted;
+    width: 450px;
+}
+
+p#history {
+    color: #728d9c;
+}
+
+h6#pizzatoppings {
+    color: red;
+    font-size: 20px;
+    text-transform: uppercase;
 }
