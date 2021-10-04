@@ -78,3 +78,7 @@ p#extra {
     font-size: 10px
     color: grey;
 }
+
+span.price {
+    font-style: italic;
+}
