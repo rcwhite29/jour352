@@ -1,11 +1,13 @@
 .box {
     display: flex;
     min-height: 300px;
+    max-width: 2000px;
     border: 1px solid black;
 }
 
 .lightpink {
     background-color: #f5c6d6;
+    width: 2000px;
 }
 
 .
