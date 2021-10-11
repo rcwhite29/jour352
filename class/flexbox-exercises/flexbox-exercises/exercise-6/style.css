@@ -16,6 +16,7 @@ img:first-of-type {
 @media only screen and (min-width: 600px) {
 	.container {
 		flex-direction: row;
+		
 	}
 }
 
