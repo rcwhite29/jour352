@@ -2,12 +2,34 @@
     display: flex;
     min-height: 300px;
     max-width: 2000px;
-    border: 1px solid black;
 }
 
 .lightpink {
     background-color: #f5c6d6;
     width: 2000px;
+    margin: 10px;
 }
 
-.
+.darkpink {
+    background: #ee2e84;
+    width:500px;
+    margin: 10px;
+}
+
+.blue {
+    background: #85cfd8;
+    width:1000px;
+    margin: 10px;
+}
+
+.green {
+    background: #8dc63f;
+    width:1350px;
+    margin: 10px;
+}
+
+.orange {
+    background: #e76e34;
+    width:650px;
+    margin: 10px;
+}
